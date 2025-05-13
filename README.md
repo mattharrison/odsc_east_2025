@@ -1,5 +1,6 @@
 # ODSC East 2025
 
+https://github.com/mattharrison/odsc_east_2025
 
 ## Contents
 
