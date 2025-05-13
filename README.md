@@ -1,4 +1,4 @@
-# ODSC West 2024
+# ODSC East 2025
 
 
 ## Contents
@@ -18,8 +18,8 @@ To run the notebooks locally, you will need to create a virtual environment and 
 
 1. Clone the repository:
    ```sh
-   git clone git@github.com:mattharrison/odsc_west_2024.git
-   cd odsc_west_2024
+   git clone git@github.com:mattharrison/odsc_east_2025.git
+   cd odsc_east_202%
    ```
 
 2. Set up the environment using `uv`:
